@@ -1,0 +1,88 @@
+body {
+	background-image: url('éléments du site/kronebau-indoor.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: 200px;
+	height: 1400px;
+}
+h1 {
+	color: rgb(249,245,125);
+	font-weight: bold;
+	text-shadow: 5px 5px 5px white;
+    font-size: 75px;
+	font-family: Matura MT Script Capitals,times new,arial;
+	position: fixed;
+	top: 0px;
+	left: 600px;
+}
+h2 {
+	color: white;
+	background-attachment: fixed;
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+}
+h3 {
+	margin: 15px 100px 0px 225px;
+}
+form{
+	margin-left: -100px;
+}
+img {
+	margin-top: 30px;
+	margin-left:350px;
+	position: top;
+	}
+figure {
+	color:white;
+	margin-left:300px;
+}
+figcaption {
+	margin-left: 100px;
+	font-size: 20px;
+}
+dt {
+	color: white;
+	margin: 30px 500px 30px 500px;
+	list-style-type: none;
+	font-size: 20px;
+	background-color: black;
+}
+td,th {
+	Border: 2px solid White;
+	color: white;
+}
+table {
+	border-collapse: collapse;
+	color: white;
+	margin: auto;
+	font-size: 20px;
+	margin-top: 20px;
+}
+//titre du tableau//
+caption {
+	color: white;
+	position: center;
+}
+p
+{
+	width: 800px;
+	margin-left: 400px;
+    color: white;
+	text-align: center;
+	font-size: 20px;
+}
+submit {
+	margin-bottom: 30px;
+}
+footer {
+	background-color: rgb(249,245,125);
+	background-size: cover;
+	color: black;
+	display: inline-block;
+	position: fixed;
+	bottom: 0px;
+	left: 500px;
+	font-size: 20px;
+	
+}
